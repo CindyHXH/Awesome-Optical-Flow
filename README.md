@@ -1,8 +1,8 @@
 # Paper list - Survey
 
-A list of the most cited papers for optical flow survey, optical flow estimation (from classical methods to deep neural network methods), optical flow dataset & evaluation, its spatiotemporal applications especially on video segmentation with supervoxel.
+A list of the most cited papers of optical flow survey, optical flow estimation (from classical methods to deep neural network methods), optical flow dataset & evaluation, its spatiotemporal applications especially on video segmentation with supervoxel.
 
-The total number of paper in the list is 72.
+The total number of papers in the list is 72.
 
 Survey: Recent Advances in Optical Flow: Computation and Spatiotemporal Applications
 
