@@ -32,17 +32,33 @@ Survey: Recent Advances in Optical Flow: Computation and Spatiotemporal Applicat
 <!---[Key researchers] [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Christian Szegedy](https://scholar.google.ca/citations?hl=en&user=3QeF7mAAAAAJ), [Sergey Ioffe](https://scholar.google.ca/citations?user=S5zOyIkAAAAJ), [Kaming He](https://scholar.google.ca/citations?hl=en&user=DhtAFkwAAAAJ), [Diederik P. Kingma](https://scholar.google.ca/citations?hl=en&user=yyIoQu4AAAAJ)-->
 
 ### Optical Flow Estimation with Deep Learning
-- **Pixel recurrent neural networks** (2016), A. Oord et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
-- **Improved techniques for training GANs** (2016), T. Salimans et al. [[pdf]](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
-- **Unsupervised representation learning with deep convolutional generative adversarial networks** (2015), A. Radford et al. [[pdf]](https://arxiv.org/pdf/1511.06434v2)
-- **DRAW: A recurrent neural network for image generation** (2015), K. Gregor et al. [[pdf]](http://arxiv.org/pdf/1502.04623)
-- **Generative adversarial nets** (2014), I. Goodfellow et al. [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-- **Auto-encoding variational Bayes** (2013), D. Kingma and M. Welling [[pdf]](http://arxiv.org/pdf/1312.6114)
-- **Building high-level features using large scale unsupervised learning** (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209)
-
-<!---[Key researchers] [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Ian Goodfellow](https://scholar.google.ca/citations?user=iYN86KEAAAAJ), [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ)-->
-
-<!---[Key researchers]  [Christian Szegedy](https://scholar.google.ca/citations?hl=en&user=3QeF7mAAAAAJ), [Kaming He](https://scholar.google.ca/citations?hl=en&user=DhtAFkwAAAAJ), [Shaoqing Ren](https://scholar.google.ca/citations?hl=en&user=AUhj438AAAAJ), [Jian Sun](https://scholar.google.ca/citations?hl=en&user=ALVSZAYAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Yann LeCun](https://scholar.google.ca/citations?hl=en&user=WLN3QrAAAAAJ)-->
+- **A fast learning algorithm for deep belief nets** (Neural Computation 2006), Geoffrey E. Hinton et al. [[pdf]](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
+- **Deep learning** (Nature 2015), Yann LeCun et al. [[pdf]](https://www.nature.com/articles/nature14539.pdf)
+- **Object Recognition from Local Scale-Invariant Features** (ICCV 1999), David G.Loew. [[pdf]](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf)
+- **Histograms of Oriented Gradients for Human Detection** (CVPR 2005), Navneet Dalal et al. [[pdf]](https://courses.engr.illinois.edu/ece420/fa2017/hog_for_human_detection.pdf)
+- **An Identity-Authentication System Using Fingerprints** (1997), Anil K Jain et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=628674)
+- **Rapid Object Detection using a Boosted Cascade of Simple Features** (CVPR 2001), Paul Viola et al. [[pdf]](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
+- **Object Detection with Discriminatively Trained Part Based Models** (PAMI), Pedro F. Felzenszwalb et al. [[pdf]](https://cs.brown.edu/~pff/papers/lsvm-pami.pdf)
+- **Unsupervised Learning of Hierarchical Representations with Convolutional Deep Belief Networks** (CACM 2011), Honglak Lee et al. [[pdf]](https://www.cs.princeton.edu/~rajeshr/papers/cacm2011-researchHighlights-convDBN.pdf)
+- **Gradient-Based Learning Applied to Document Recognition** (1998), Yann LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+- **ImageNet Classification with Deep Convolutional Neural Networks** (NIPS), Alex Krizhevsky et al. [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- **Network In Network* (ICLR 2014), Min Lin et al. [[pdf]](https://arxiv.org/pdf/1312.4400.pdf)
+- **Going deeper with convolutions** (CVPR 2015), Christian Szegedy et al. [[pdf]](https://arxiv.org/pdf/1409.4842.pdf)
+- **Very Deep Convolutional Networks for Large-Scale Image Recognition** (2014), Karen Simonyan et al. [[pdf]](https://arxiv.org/pdf/1409.1556.pdf)
+- **Rethinking the Inception Architecture for Computer Vision** (CVPR 2016), Christian Szegedy et al. [[pdf]](https://arxiv.org/pdf/1512.00567.pdf)
+- **Deep Residual Learning for Image Recognition** (CVPR 2016), Kaiming He et al. [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Densely Connected Convolutional Networks** (CVPR 2017), Gao Huang et al. [[pdf]](https://arxiv.org/pdf/1608.06993.pdf)
+- **FlowNet: Learning Optical Flow with Convolutional Networks** (CVPR 2015), Alexey Dosovitskiy et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7410673)
+- **FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks** (CVPR 2017), Eddy Ilg et al. [[pdf]](https://arxiv.org/pdf/1612.01925.pdf)
+- **DeepFlow: Large displacement optical flow with deep matching** (ICCV 2013), Philippe Weinzaepfel et al. [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf)
+- **EpicFlow: Edge-Preserving Interpolation of Correspondences for Optical Flow** (CVPR 2015), Jerome Revaud et al. [[pdf]](https://arxiv.org/pdf/1501.02565.pdf)
+- **Flow Fields: Dense Correspondence Fields for Highly Accurate Large Displacement Optical Flow Estimation** (CVPR 2015), Christian Bailer et al. [[pdf]](https://arxiv.org/pdf/1508.05151.pdf)
+- **Guided Optical Flow Learning** (CVPR 2017), Yi Zhu et al. [[pdf]](https://arxiv.org/pdf/1702.02295.pdf)
+- **Optical Flow Estimation using a Spatial Pyramid Network** (CVPR 2017), Anurag Ranjan et al. [[pdf]](https://arxiv.org/pdf/1611.00850.pdf)
+- **Unsupervised Deep Learning for Optical Flow Estimation** (AAAI 2017), Zhe Ren et al. [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14388/13940)
+- **CNN-based Patch Matching for Optical Flow with Thresholded Hinge Embedding Loss** (CVPR 2017), Christian Bailer et al. [[pdf]](https://arxiv.org/pdf/1607.08064.pdf)
+- **Discriminative Learning of Deep Convolutional Feature Point Descriptors** (ICCV 2015), Edgar Simo-Serra et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7410379)
+- **Dense Optical Flow Prediction from a Static Image** (ICCV 2015), Jacob Walker et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7410638)
 
 ### Spatiotemporal Applications / Supervoxel / Video Segmentation
 - **Evaluation of Super-Voxel Methods for Early Video Processing** (CVPR 2012), Chenliang Xu and Jason J. Corso. [[pdf]](https://www.cse.buffalo.edu//~jcorso/pubs/jcorso_CVPR2012_svx.pdf)
