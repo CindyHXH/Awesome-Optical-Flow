@@ -9,16 +9,21 @@ Xiaohui Huang
 Survey: Recent Advances in Optical Flow: Computation and Spatiotemporal Applications
 
 
-### Optical Flow Survey / Evaluation
-- **Distilling the knowledge in a neural network** (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531)
-- **Deep neural networks are easily fooled: High confidence predictions for unrecognizable images** (2015), A. Nguyen et al. [[pdf]](http://arxiv.org/pdf/1412.1897)
-- **How transferable are features in deep neural networks?** (2014), J. Yosinski et al. [[pdf]](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
-- **CNN features off-the-Shelf: An astounding baseline for recognition** (2014), A. Razavian et al. [[pdf]](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf)
-- **Learning and transferring mid-Level image representations using convolutional neural networks** (2014), M. Oquab et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf)
-- **Visualizing and understanding convolutional networks** (2014), M. Zeiler and R. Fergus [[pdf]](http://arxiv.org/pdf/1311.2901)
-- **Decaf: A deep convolutional activation feature for generic visual recognition** (2014), J. Donahue et al. [[pdf]](http://arxiv.org/pdf/1310.1531)
-
-<!---[Key researchers]  [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Jason Yosinski](https://scholar.google.ca/citations?hl=en&user=gxL1qj8AAAAJ) -->
+### Optical Flow Survey / Background / Dataset & Evaluation
+- **Determining Optical Flow** (Artificial intelligence 1981), Berthold K.P. Horn et al. [[pdf]](http://image.diku.dk/imagecanon/material/HornSchunckOptical_Flow.pdf)
+- **Optical flow estimation: Advances and comparisons** (ECCV 1994), M. Otte et al. [[pdf]](https://link.springer.com/chapter/10.1007/3-540-57956-7_5)
+- **Optical flow modeling and computation: A survey** (CVIU), Denis Fortun et al. [[pdf]](https://hal.inria.fr/hal-01104081v2/document)
+- **The computation of optical flow** (ACM Computing Surveys), S. S. Beauchemin et al. [[pdf]](http://www.csd.uwo.ca/faculty/beau/PAPERS/acm-95.pdf)
+- **On the Estimation of Optical Flow: Relations between Different Approaches and Some New Results** (Artificial intelligence 1981), Hans-Hellmut Nagel. [[pdf]](http://www-pequan.lip6.fr/~bereziat/cours/master/vision/papers/nagel87.pdf)
+- **Processing differential image motion** (OSA 1985), J. H. Rieger. [[pdf]](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-2-2-354)
+- **Performance of Optical Flow Techniques** (IJCV), JL Barron et al. [[pdf]](http://www.cs.toronto.edu/~fleet/research/Papers/ijcv-94.pdf)
+- **A Database and Evaluation Methodology for Optical Flow** (IJCV), Simon Baker et al. [[pdf]](http://static.cs.brown.edu/people/black/Papers/flowEval07.pdf)
+- **A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation** (CVPR 2016), Nikolaus Mayer. [[pdf]](https://arxiv.org/pdf/1512.02134.pdf)
+- **Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite** (CVPR 2012),  Andreas Geiger et al. [[pdf]](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf)
+- **A Naturalistic Open Source Movie for Optical Flow Evaluation** (ECCV 2012), Daniel J Butler at al. [[pdf]](https://homes.cs.washington.edu/~djbutler/papers/ButlerECCV2012.pdf)
+- **Lessons and Insights from Creating a Synthetic Optical Flow Benchmark** (ECCV 2012), Jonas Wulf et al. [[pdf]](http://files.is.tue.mpg.de/black/papers/WulffECCVws2012.pdf)
+- **Segmenting Video Into Classes of Algorithm-Suitability** (CVPR 2010), Oisin Mac Aodha et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.615.3634&rep=rep1&type=pdf)
+- **On Benchmarking Optical Flow** (CVIU), B. McCane. [[pdf]](https://ac.els-cdn.com/S1077314201909300/1-s2.0-S1077314201909300-main.pdf?_tid=41e8248e-ca4c-11e7-abcf-00000aab0f6c&acdnat=1510781633_1ecc3afce772ba8afbb15fcf3705cabb)
 
 ### Optical Flow Estimation with Classic Techniques
 - **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
@@ -42,7 +47,7 @@ Survey: Recent Advances in Optical Flow: Computation and Spatiotemporal Applicat
 - **Unsupervised Learning of Hierarchical Representations with Convolutional Deep Belief Networks** (CACM 2011), Honglak Lee et al. [[pdf]](https://www.cs.princeton.edu/~rajeshr/papers/cacm2011-researchHighlights-convDBN.pdf)
 - **Gradient-Based Learning Applied to Document Recognition** (1998), Yann LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 - **ImageNet Classification with Deep Convolutional Neural Networks** (NIPS), Alex Krizhevsky et al. [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-- **Network In Network* (ICLR 2014), Min Lin et al. [[pdf]](https://arxiv.org/pdf/1312.4400.pdf)
+- **Network In Network** (ICLR 2014), Min Lin et al. [[pdf]](https://arxiv.org/pdf/1312.4400.pdf)
 - **Going deeper with convolutions** (CVPR 2015), Christian Szegedy et al. [[pdf]](https://arxiv.org/pdf/1409.4842.pdf)
 - **Very Deep Convolutional Networks for Large-Scale Image Recognition** (2014), Karen Simonyan et al. [[pdf]](https://arxiv.org/pdf/1409.1556.pdf)
 - **Rethinking the Inception Architecture for Computer Vision** (CVPR 2016), Christian Szegedy et al. [[pdf]](https://arxiv.org/pdf/1512.00567.pdf)
