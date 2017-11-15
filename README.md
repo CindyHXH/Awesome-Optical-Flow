@@ -46,12 +46,17 @@ Survey: Recent Advances in Optical Flow: Computation and Spatiotemporal Applicat
 
 ### Spatiotemporal Applications / Supervoxel / Video Segmentation
 - **Evaluation of Super-Voxel Methods for Early Video Processing** (CVPR 2012), Chenliang Xu and Jason J. Corso. [[pdf]](https://www.cse.buffalo.edu//~jcorso/pubs/jcorso_CVPR2012_svx.pdf)
-- **Flattening Supervoxel Hierarchies by the Uniform Entropy Slice** ( ICCV 2013), Chenliang Xu et al. [[pdf]](https://www.cse.buffalo.edu//~jcorso/pubs/jcorso_ICCV2013_hieflat.pdf)
-- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2015), S. Ren et al. [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
-- **Fast R-CNN** (2015), R. Girshick [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
-- **Rich feature hierarchies for accurate object detection and semantic segmentation** (2014), R. Girshick et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
-- **Spatial pyramid pooling in deep convolutional networks for visual recognition** (2014), K. He et al. [[pdf]](http://arxiv.org/pdf/1406.4729)
-- **Semantic image segmentation with deep convolutional nets and fully connected CRFs**, L. Chen et al. [[pdf]](https://arxiv.org/pdf/1412.7062)
-- **Learning hierarchical features for scene labeling** (2013), C. Farabet et al. [[pdf]](https://hal-enpc.archives-ouvertes.fr/docs/00/74/20/77/PDF/farabet-pami-13.pdf)
-
-<!---[Key researchers]  [Ross Girshick](https://scholar.google.ca/citations?hl=en&user=W8VIEZgAAAAJ), [Jeff Donahue](https://scholar.google.ca/citations?hl=en&user=UfbuDH8AAAAJ), [Trevor Darrell](https://scholar.google.ca/citations?hl=en&user=bh-uRFMAAAAJ)-->
+- **Flattening Supervoxel Hierarchies by the Uniform Entropy Slice** (ICCV 2013), Chenliang Xu et al. [[pdf]](https://www.cse.buffalo.edu//~jcorso/pubs/jcorso_ICCV2013_hieflat.pdf)
+- **Supervoxel-based Segmentation of 3D Volumetric Images** (ACCV 2016), Chengliang Yang et al. [[pdf]](https://www.cise.ufl.edu/~cy2/pdf/0528.pdf)
+- **Streaming Hierarchical Video Segmentation** (ECCV 2012), Chenliang Xu et al. [[pdf]](https://www.cse.buffalo.edu//~jcorso/pubs/jcorso_ECCV2012_streamgbh.pdf)
+- **Coarse-to-fine Semantic Video Segmentation using Supervoxel Trees** (ICCV 2013), Aastha Jain et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6751342&tag=1)
+- **An Efficient Online Hierarchical Supervoxel Segmentation Algorithm for Time-critical Applications** (BMVC 2014), Yiliang Xu et al. [[pdf]](http://www.bmva.org/bmvc/2014/files/paper129.pdf)
+- **Unsupervised Learning of Supervoxel Embeddings for Video Segmentation** (ICPR 2016), Mehran Khodabandeh et al. [[pdf]](http://www.sfu.ca/~smuralid/papers/ICPR2016.pdf)
+- **A supervoxel-based segmentation method for prostate MR images** (2015), Zhiqiang Tian et al. [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4736748/)
+- **Video Object Segmentation using Supervoxel-Based Gerrymandering** (2017), Brent A. Griffin et al. [[pdf]](https://arxiv.org/pdf/1704.05165.pdf)
+- **One-Shot Video Object Segmentation** (CVPR 2017), S. Caelles, K.K. Maninis et al. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf)
+- **Video Segmentation via Object Flow** (CVPR 2016), Y.-H. Tsai et al. [[pdf]](http://vllab1.ucmerced.edu/~ytsai/CVPR16/cvpr16_segmentation.pdf)
+- **Learning Video Object Segmentation from Static Images** (CVPR 2017), F. Perazzi, A. Khoreva et al. [[pdf]](https://graphics.ethz.ch/~perazzif/masktrack/files/masktrack.pdf)
+- **Online Adaptation of Convolutional Neural Networks for Video Object Segmentation** (BMVC 2017), P. Voigtlaender et al. [[pdf]](https://arxiv.org/pdf/1706.09364.pdf)
+- **Unsupervised Learning of Supervoxel Embeddings for Video Segmentation** (ICPR 2016), Mehran Khodabandeh et al. [[pdf]](http://www.sfu.ca/~smuralid/papers/ICPR2016.pdf)
+- **SegFlow: Joint Learning for Video Object Segmentation and Optical Flow** (ICCV 2017), J.Cheng et al. [[pdf]](https://arxiv.org/pdf/1709.06750.pdf)
