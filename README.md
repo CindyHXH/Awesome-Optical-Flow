@@ -4,10 +4,9 @@ A list of the most cited papers for optical flow survey, optical flow estimation
 
 The total number of paper in the list is .
 
-Xiaohui Huang
-
 Survey: Recent Advances in Optical Flow: Computation and Spatiotemporal Applications
 
+Xiaohui Huang
 
 ### Optical Flow Survey / Background / Dataset & Evaluation
 - **Determining Optical Flow** (Artificial intelligence 1981), Berthold K.P. Horn et al. [[pdf]](http://image.diku.dk/imagecanon/material/HornSchunckOptical_Flow.pdf)
@@ -26,15 +25,19 @@ Survey: Recent Advances in Optical Flow: Computation and Spatiotemporal Applicat
 - **On Benchmarking Optical Flow** (CVIU), B. McCane. [[pdf]](https://ac.els-cdn.com/S1077314201909300/1-s2.0-S1077314201909300-main.pdf?_tid=41e8248e-ca4c-11e7-abcf-00000aab0f6c&acdnat=1510781633_1ecc3afce772ba8afbb15fcf3705cabb)
 
 ### Optical Flow Estimation with Classic Techniques
-- **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
-- **Batch normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
-- **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
-- **Dropout: A simple way to prevent neural networks from overfitting** (2014), N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
-- **Adam: A method for stochastic optimization** (2014), D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
-- **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
-- **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
-
-<!---[Key researchers] [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Christian Szegedy](https://scholar.google.ca/citations?hl=en&user=3QeF7mAAAAAJ), [Sergey Ioffe](https://scholar.google.ca/citations?user=S5zOyIkAAAAJ), [Kaming He](https://scholar.google.ca/citations?hl=en&user=DhtAFkwAAAAJ), [Diederik P. Kingma](https://scholar.google.ca/citations?hl=en&user=yyIoQu4AAAAJ)-->
+- **The Robust Estimation of Multiple Motions: Parametric and Piecewise-Smooth Flow Fields** (CVIU), Michael J.Black et al. [[pdf]](http://cs.brown.edu/~black/Papers/cviu.63.1.1996.pdf)
+- **Generalized image matching by the method of differences** (1985), Bruce David Lucas. [[pdf]](https://www.ri.cmu.edu/pub_files/pub4/lucas_bruce_d_1984_1/lucas_bruce_d_1984_1.pdf)
+- **An iterative image registration technique with an application to stereo vision** (1981), Bruce D. Lucas et al. [[pdf]](https://www.ri.cmu.edu/pub_files/pub3/lucas_bruce_d_1981_2/lucas_bruce_d_1981_2.pdf)
+- **Spatiotemporal energy models for the perception of motion** (1985), Edward H. Adelson et al. [[pdf]](http://persci.mit.edu/pub_pdfs/spatio85.pdf)
+- **Elaborated Reichardt detectors** (1985), Jan P. H. van Santen et al. [[pdf]](http://cns.bu.edu/Profiles/Mingolla.html/cnsftp/pdf/vanSantenSperling1985EReichardt.pdf)
+- **Model of human visual-motion sensing** , Andrew B. Watson et al. [[pdf]](https://www.osapublishing.org/DirectPDFAccess/906BD1FA-00E2-8F7B-8917C5DD77CC87E4_1949/josaa-2-2-322.pdf?da=1&id=1949&seq=0&mobile=no)
+- **A Computational Framework and an Algorithm for the Measurement of Visual Motion ** (IJCV), P. Anandan. [[pdf]](http://www-pequan.lip6.fr/~bereziat/cours/master/vision/papers/anandan89.pdf)
+- **The Laplacian Pyramid as a Compact Image Code** (1983), Peter J. Burt et al. [[pdf]](http://persci.mit.edu/pub_pdfs/pyramid83.pdf)
+- **Parallel Optical Flow Using Local Voting** , James J. Little et al. [[pdf]](http://www.kyb.tuebingen.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf778.pdf)
+- **Analysis of Differential and Matching Methods for Optical Flow** , James J. Little et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=47107)
+- **Measuring visual motion from image sequences** (1987), Padmanabhan Anandan. [[pdf]](https://web.cs.umass.edu/publication/docs/1987/UM-CS-1987-021.pdf)
+- **Computation of component image velocity from local phase information** (IJCV), David J. Fleet et al. [[pdf]](https://link.springer.com/article/10.1007/BF00056772)
+- **Real-time early vision neurocomputing** (2015), David A. Fay. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=155250)
 
 ### Optical Flow Estimation with Deep Learning
 - **A fast learning algorithm for deep belief nets** (Neural Computation 2006), Geoffrey E. Hinton et al. [[pdf]](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
