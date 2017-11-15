@@ -25,13 +25,16 @@ Xiaohui Huang
 - **On Benchmarking Optical Flow** (CVIU), B. McCane. [[pdf]](https://ac.els-cdn.com/S1077314201909300/1-s2.0-S1077314201909300-main.pdf?_tid=41e8248e-ca4c-11e7-abcf-00000aab0f6c&acdnat=1510781633_1ecc3afce772ba8afbb15fcf3705cabb)
 
 ### Optical Flow Estimation with Classic Techniques
+- **Optical Flow Estimation**, David J. Fleet et al. [[pdf]](http://www.cs.toronto.edu/~fleet/research/Papers/flowChapter05.pdf)
+- **Secrets of optical flow estimation and their principles** (CVPR 2010), Deqing Sun et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5539939)
+- **Optical Flow Estimation: An Error Analysis of Gradient-Based Methods with Local Optimization** (PAMI), Joseph K. Kearney et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4767897)
+- **High Accuracy Optical Flow Estimation Based on a Theory for Warping** (ECCV 2004), Thomas Brox et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.4669&rep=rep1&type=pdf)
 - **The Robust Estimation of Multiple Motions: Parametric and Piecewise-Smooth Flow Fields** (CVIU), Michael J.Black et al. [[pdf]](http://cs.brown.edu/~black/Papers/cviu.63.1.1996.pdf)
 - **Generalized image matching by the method of differences** (1985), Bruce David Lucas. [[pdf]](https://www.ri.cmu.edu/pub_files/pub4/lucas_bruce_d_1984_1/lucas_bruce_d_1984_1.pdf)
-- **An iterative image registration technique with an application to stereo vision** (1981), Bruce D. Lucas et al. [[pdf]](https://www.ri.cmu.edu/pub_files/pub3/lucas_bruce_d_1981_2/lucas_bruce_d_1981_2.pdf)
 - **Spatiotemporal energy models for the perception of motion** (1985), Edward H. Adelson et al. [[pdf]](http://persci.mit.edu/pub_pdfs/spatio85.pdf)
 - **Elaborated Reichardt detectors** (1985), Jan P. H. van Santen et al. [[pdf]](http://cns.bu.edu/Profiles/Mingolla.html/cnsftp/pdf/vanSantenSperling1985EReichardt.pdf)
 - **Model of human visual-motion sensing** , Andrew B. Watson et al. [[pdf]](https://www.osapublishing.org/DirectPDFAccess/906BD1FA-00E2-8F7B-8917C5DD77CC87E4_1949/josaa-2-2-322.pdf?da=1&id=1949&seq=0&mobile=no)
-- **A Computational Framework and an Algorithm for the Measurement of Visual Motion ** (IJCV), P. Anandan. [[pdf]](http://www-pequan.lip6.fr/~bereziat/cours/master/vision/papers/anandan89.pdf)
+- **A Computational Framework and an Algorithm for the Measurement of Visual Motion** (IJCV), P. Anandan. [[pdf]](http://www-pequan.lip6.fr/~bereziat/cours/master/vision/papers/anandan89.pdf)
 - **The Laplacian Pyramid as a Compact Image Code** (1983), Peter J. Burt et al. [[pdf]](http://persci.mit.edu/pub_pdfs/pyramid83.pdf)
 - **Parallel Optical Flow Using Local Voting** , James J. Little et al. [[pdf]](http://www.kyb.tuebingen.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf778.pdf)
 - **Analysis of Differential and Matching Methods for Optical Flow** , James J. Little et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=47107)
