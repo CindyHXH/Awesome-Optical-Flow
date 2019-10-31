@@ -1,4 +1,4 @@
-# Awesome-Optical-Flow Paper list 
+# Awesome Optical Flow Paper list 
 
 A list of the most cited papers of optical flow survey, optical flow estimation (from classical methods to deep neural network methods), optical flow dataset & evaluation, its spatiotemporal applications especially on video segmentation with supervoxel.
 
